@@ -1,1 +1,4 @@
 # gitrulesproj
+
+This is first line 
+this is second line
